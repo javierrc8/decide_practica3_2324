@@ -1,4 +1,4 @@
-Plataforma voto electrónico educativa (actualización)
+Plataforma voto electrónico educativa (actualización-v2)
 =====================================
 
 El objetivo de este proyecto es implementar una plataforma de voto
